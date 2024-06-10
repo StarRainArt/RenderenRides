@@ -1,0 +1,204 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Barbie",
+      "year": 2020,
+      "model": "Dream Camper",
+      "description": "A colorful camper van with various accessories and sleeping spaces for a fun adventure.",
+      "img": "https://i.ebayimg.com/images/g/TnoAAOSw-pNhihdn/s-l1200.webp"
+    },
+    {
+      "id": 2,
+      "brand": "Barbie",
+      "year": 2019,
+      "model": "Glam Convertible",
+      "description": "A stylish pink convertible perfect for a glamorous drive around town.",
+      "img": "https://m.media-amazon.com/images/I/71WMMRZW30L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "Barbie",
+      "year": 2017,
+      "model": "SUV Adventure",
+      "description": "A rugged SUV designed for Barbie's off-road adventures with plenty of space for friends.",
+      "img": "https://m.media-amazon.com/images/I/519dLVCiKcL._AC_.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "Barbie",
+      "year": 2017,
+      "model": "Beach Cruiser",
+      "description": "A fun beach cruiser with surfboard accessories, perfect for a day at the beach.",
+      "img": "https://media.s-bol.com/76LOEvWwWor8/550x419.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Barbie",
+      "year": 2002,
+      "model": "Sporty Jeep",
+      "description": "A sporty pink Jeep with real working wheels for endless off-road fun.",
+      "img": "https://en.barbiepedia.com/img/barbie/800/74388_0.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Barbie",
+      "year": 2021,
+      "model": "Convertible Coupe",
+      "description": "A chic convertible coupe with elegant details and a modern design.",
+      "img": "https://m.media-amazon.com/images/I/71tNIiDSTlL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "Barbie",
+      "year": 2014,
+      "model": "Princess Carriage",
+      "description": "A magical princess carriage with a royal design and enchanting details.",
+      "img": "https://i.ebayimg.com/images/g/xn4AAOSw2G5kQ9JC/s-l1200.webp"
+    },
+    {
+      "id": 8,
+      "brand": "Barbie",
+      "year": 2021,
+      "model": "Ice Cream Truck",
+      "description": "An adorable ice cream truck complete with ice cream accessories and decorations.",
+      "img": "https://shop.mattel.com/cdn/shop/products/pptyze0oqdy0uac8u7ck.jpg?v=1707949297"
+    },
+    {
+      "id": 9,
+      "brand": "Barbie",
+      "year": 2008,
+      "model": "Fiat 500",
+      "description": "A cute and compact Fiat 500 with realistic details and fun features.",
+      "img": "https://www.toychamp.nl/media/cache/default_gallery_main/media/image/01330403/01330403_002.f96c153e.jpg"
+    },
+    {
+      "id": 10,
+      "brand": "Barbie",
+      "year": 2012,
+      "model": "VW Beetle",
+      "description": "A classic VW Beetle with vintage styling and charming details.",
+      "img": "https://m.media-amazon.com/images/I/71UIS2GNa8L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 11,
+      "brand": "Barbie",
+      "year": 2001,
+      "model": "Pink Corvette",
+      "description": "A sleek and sporty pink Corvette perfect for high-speed adventures.",
+      "img": "https://i.etsystatic.com/10550684/r/il/8ddc36/3803228669/il_fullxfull.3803228669_p60q.jpg"
+    },
+    {
+      "id": 12,
+      "brand": "Barbie",
+      "year": 1980,
+      "model": "Classic Convertible",
+      "description": "A timeless classic convertible with elegant lines and sophisticated style.",
+      "img": "https://cdn.globalauctionplatform.com/31587c7a-e67c-4cac-a734-a9a1009d2d90/ca0b7b0f-6781-4763-99d4-a9ad00d1ec88/468x382.jpg"
+    },
+    {
+      "id": 13,
+      "brand": "Barbie",
+      "year": 2010,
+      "model": "Fashionista's SUV",
+      "description": "A stylish SUV designed for Barbie and her friends, perfect for city driving.",
+      "img": "https://m.media-amazon.com/images/I/71SpXJLkqYL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 14,
+      "brand": "Barbie",
+      "year": 2011,
+      "model": "Mini Cooper",
+      "description": "A trendy Mini Cooper with detailed interiors and a fun design.",
+      "img": "https://media.s-bol.com/mlgDGz0BEO0/550x362.jpg"
+    },
+    {
+      "id": 15,
+      "brand": "Barbie",
+      "year": 1980,
+      "model": "Pink Limo",
+      "description": "An extravagant pink limousine for glamorous outings and events.",
+      "img": "https://i.ebayimg.com/images/g/9R4AAOSw2xdj3EiR/s-l1200.jpg"
+    },
+    {
+      "id": 16,
+      "brand": "Barbie",
+      "year": 2010,
+      "model": "Townhouse SUV",
+      "description": "A luxurious SUV designed to complement Barbie's townhouse lifestyle.",
+      "img": "https://i.ebayimg.com/images/g/NF0AAOSwCLFmPiB1/s-l1200.webp"
+    },
+    {
+      "id": 17,
+      "brand": "Barbie",
+      "year": 2023,
+      "model": "Jeep Wrangler",
+      "description": "A rugged Jeep Wrangler for off-road adventures and exploration.",
+      "img": "https://m.media-amazon.com/images/I/71EfoyNMJ7L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 18,
+      "brand": "Barbie",
+      "year": 2020,
+      "model": "Race Car",
+      "description": "A fast and furious race car with sporty details and realistic features.",
+      "img": "https://m.media-amazon.com/images/I/61MxvPyDuwL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 19,
+      "brand": "Barbie",
+      "year": 1991,
+      "model": "Snowmobile",
+      "description": "A winter-themed snowmobile for Barbie's snowy adventures.",
+      "img": "https://i.ebayimg.com/images/g/fMQAAOSwcrJd6hY~/s-l1600.jpg"
+    },
+    {
+      "id": 20,
+      "brand": "Barbie",
+      "year": 1980,
+      "model": "Retro Van",
+      "description": "A retro-style van with vintage details and a fun, nostalgic design.",
+      "img": "https://i.pinimg.com/736x/f3/4b/b8/f34bb81556ff323b2e9f321e1a6122d8.jpg"
+    },
+    {
+      "id": 21,
+      "brand": "Barbie",
+      "year": 1963,
+      "model": "Hot Rod",
+      "description": "A classic hot rod with a cool design and powerful features.",
+      "img": "https://i.pinimg.com/564x/4e/49/07/4e4907368af9f1775966ab29b3451908.jpg"
+    },
+    {
+      "id": 22,
+      "brand": "Barbie",
+      "year": 1987,
+      "model": "Beach Buggy",
+      "description": "A fun beach buggy designed for sandy adventures and beach fun.",
+      "img": "https://i.etsystatic.com/33008694/r/il/9fddd5/5325203185/il_fullxfull.5325203185_9rkm.jpg"
+    },
+    {
+      "id": 23,
+      "brand": "Barbie",
+      "year": 1984,
+      "model": "Vintage Corvette",
+      "description": "A vintage Corvette with classic lines and a timeless design.",
+      "img": "https://i.ebayimg.com/images/g/M18AAOSw~x9iRkeA/s-l1200.webp"
+    },
+    {
+      "id": 24,
+      "brand": "Barbie",
+      "year": 1987,
+      "model": "Safari Jeep",
+      "description": "A safari-themed Jeep for Barbie's wild adventures and exploration.",
+      "img": "https://i.etsystatic.com/24211571/r/il/b6388c/5262522184/il_1080xN.5262522184_3lt0.jpg"
+    },
+    {
+      "id": 25,
+      "brand": "Barbie",
+      "year": 2015,
+      "model": "Motorcycle",
+      "description": "A cool motorcycle with a sleek design for Barbie's road trips.",
+      "img": "https://m.media-amazon.com/images/I/811pSV7ujNL._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}
